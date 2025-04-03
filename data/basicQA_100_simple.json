@@ -1,0 +1,602 @@
+[
+  {
+    "Name": "bulbasaur",
+    "image": "images/bulbasaur/main.png",
+    "problem": "What is in the images?",
+    "solution": "This is bulbasaur, and is a Grass/Poison-type Pokemon. Bulbasaur (Japanese: フシギダネ Fushigidane) is a dual-type Grass/Poison Pokémon introduced in Generation I.\n\nIt evolves into Ivysaur starting at level 16, which evolves into Venusaur starting at level 32.\n\nAlong with Charmander and Squirtle, Bulbasaur is one of the three first partner Pokémon of Kanto available at the beginning of Pokémon Red, Green, Blue, FireRed, and LeafGreen."
+  },
+  {
+    "Name": "ivysaur",
+    "image": "images/ivysaur/main.png",
+    "problem": "What is in the images?",
+    "solution": "This is ivysaur, and is a Grass/Poison-type Pokemon. Ivysaur (Japanese: フシギソウ Fushigisou) is a dual-type Grass/Poison Pokémon introduced in Generation I.\n\nIt evolves from Bulbasaur starting at level 16 and evolves into Venusaur starting at level 32."
+  },
+  {
+    "Name": "venusaur",
+    "image": "images/venusaur/main.png",
+    "problem": "What is in the images?",
+    "solution": "This is venusaur, and is a Grass/Poison-type Pokemon. Venusaur (Japanese: フシギバナ Fushigibana) is a dual-type Grass/Poison Pokémon introduced in Generation I.\n\nIt evolves from Ivysaur starting at level 32. It is the final form of Bulbasaur.\n\nVenusaur has two forms: Mega Venusaur and Gigantamax Venusaur. It can Mega Evolve into Mega Venusaur using the Venusaurite, and can Gigantamax into Gigantamax Venusaur if it has the Gigantamax Factor. Gigantamax Venusaur was introduced in The Isle of Armor.\n\nVenusaur is the game mascot of Pokémon Green and its remake Pokémon LeafGreen, appearing on the box art of both games."
+  },
+  {
+    "Name": "charmander",
+    "image": "images/charmander/main.png",
+    "problem": "What is in the images?",
+    "solution": "This is charmander, and is a Fire-type Pokemon. Charmander (Japanese: ヒトカゲ Hitokage) is a Fire-type Pokémon introduced in Generation I.\n\nIt evolves into Charmeleon starting at level 16, which evolves into Charizard starting at level 36.\n\nAlong with Bulbasaur and Squirtle, Charmander is one of the three first partner Pokémon of Kanto available at the beginning of Pokémon Red, Green, Blue, FireRed, and LeafGreen."
+  },
+  {
+    "Name": "charmeleon",
+    "image": "images/charmeleon/main.png",
+    "problem": "What is in the images?",
+    "solution": "This is charmeleon, and is a Fire-type Pokemon. Charmeleon (Japanese: リザード Lizardo) is a Fire-type Pokémon introduced in Generation I.\n\nIt evolves from Charmander starting at level 16 and evolves into Charizard starting at level 36."
+  },
+  {
+    "Name": "charizard",
+    "image": "images/charizard/main.png",
+    "problem": "What is in the images?",
+    "solution": "This is charizard, and is a Fire/Flying/Dragon-type Pokemon. Charizard (Japanese: リザードン Lizardon) is a dual-type Fire/Flying Pokémon introduced in Generation I.\n\nIt evolves from Charmeleon starting at level 36. It is the final form of Charmander.\n\nCharizard has three forms: Mega Charizard X, Mega Charizard Y, and Gigantamax Charizard. It can Mega Evolve into Mega Charizard X using the Charizardite X and Mega Charizard Y using the Charizardite Y, and can Gigantamax into Gigantamax Charizard if it has the Gigantamax Factor.\n\nCharizard is the game mascot of Pokémon Red and its remake Pokémon FireRed, appearing on the boxart of both games.\n\nAlong with Pikachu, Talonflame, and Decidueye, Charizard is one of the four partner Pokémon available through the Unite Licenses in Pokémon UNITE as of version 1.12.1.2."
+  },
+  {
+    "Name": "squirtle",
+    "image": "images/squirtle/main.png",
+    "problem": "What is in the images?",
+    "solution": "This is squirtle, and is a Water-type Pokemon. Squirtle (Japanese: ゼニガメ Zenigame) is a Water-type Pokémon introduced in Generation I.\n\nIt evolves into Wartortle starting at level 16, which evolves into Blastoise starting at level 36.\n\nAlong with Bulbasaur and Charmander, Squirtle is one of the three first partner Pokémon of Kanto available at the beginning of Pokémon Red, Green, Blue, FireRed, and LeafGreen."
+  },
+  {
+    "Name": "wartortle",
+    "image": "images/wartortle/main.png",
+    "problem": "What is in the images?",
+    "solution": "This is wartortle, and is a Water-type Pokemon. Wartortle (Japanese: カメール Kameil) is a Water-type Pokémon introduced in Generation I.\n\nIt evolves from Squirtle starting at level 16 and evolves into Blastoise starting at level 36."
+  },
+  {
+    "Name": "blastoise",
+    "image": "images/blastoise/main.png",
+    "problem": "What is in the images?",
+    "solution": "This is blastoise, and is a Water-type Pokemon. Blastoise (Japanese: カメックス Kamex) is a Water-type Pokémon introduced in Generation I.\n\nIt evolves from Wartortle starting at level 36. It is the final form of Squirtle.\n\nBlastoise has two forms: Mega Blastoise and Gigantamax Blastoise. It can Mega Evolve into Mega Blastoise using the Blastoisinite, and can Gigantamax into Gigantamax Blastoise if it has the Gigantamax Factor. Gigantamax Blastoise was introduced in The Isle of Armor.\n\nBlastoise is the game mascot of the Japanese and international versions of Pokémon Blue, appearing on the boxart of both games."
+  },
+  {
+    "Name": "caterpie",
+    "image": "images/caterpie/main.png",
+    "problem": "What is in the images?",
+    "solution": "This is caterpie, and is a Bug-type Pokemon. Caterpie (Japanese: キャタピー Caterpie) is a Bug-type Pokémon introduced in Generation I.\n\nIt evolves into Metapod starting at level 7, which evolves into Butterfree starting at level 10."
+  },
+  {
+    "Name": "metapod",
+    "image": "images/metapod/main.png",
+    "problem": "What is in the images?",
+    "solution": "This is metapod, and is a Bug-type Pokemon. Metapod (Japanese: トランセル Transel) is a Bug-type Pokémon introduced in Generation I.\n\nIt evolves from Caterpie starting at level 7 and evolves into Butterfree starting at level 10."
+  },
+  {
+    "Name": "butterfree",
+    "image": "images/butterfree/main.png",
+    "problem": "What is in the images?",
+    "solution": "This is butterfree, and is a Bug/Flying-type Pokemon. Butterfree (Japanese: バタフリー Butterfree) is a dual-type Bug/Flying Pokémon introduced in Generation I.\n\nIt evolves from Metapod starting at level 10. It is the final form of Caterpie.\n\nButterfree can Gigantamax into Gigantamax Butterfree if it has the Gigantamax Factor."
+  },
+  {
+    "Name": "weedle",
+    "image": "images/weedle/main.png",
+    "problem": "What is in the images?",
+    "solution": "This is weedle, and is a Bug/Poison-type Pokemon. Weedle (Japanese: ビードル Beedle) is a dual-type Bug/Poison Pokémon introduced in Generation I.\n\nIt evolves into Kakuna starting at level 7, which evolves into Beedrill starting at level 10."
+  },
+  {
+    "Name": "kakuna",
+    "image": "images/kakuna/main.png",
+    "problem": "What is in the images?",
+    "solution": "This is kakuna, and is a Bug/Poison-type Pokemon. Kakuna (Japanese: コクーン Cocoon) is a dual-type Bug/Poison Pokémon introduced in Generation I.\n\nIt evolves from Weedle starting at level 7 and evolves into Beedrill starting at level 10."
+  },
+  {
+    "Name": "beedrill",
+    "image": "images/beedrill/main.png",
+    "problem": "What is in the images?",
+    "solution": "This is beedrill, and is a Bug/Poison-type Pokemon. Beedrill (Japanese: スピアー Spear) is a dual-type Bug/Poison Pokémon introduced in Generation I.\n\nIt evolves from Kakuna starting at level 10. It is the final form of Weedle.\n\nBeedrill can Mega Evolve into Mega Beedrill using the Beedrillite."
+  },
+  {
+    "Name": "pidgey",
+    "image": "images/pidgey/main.png",
+    "problem": "What is in the images?",
+    "solution": "This is pidgey, and is a Normal/Flying-type Pokemon. Pidgey (Japanese: ポッポ Poppo) is a dual-type Normal/Flying Pokémon introduced in Generation I.\n\nIt evolves into Pidgeotto starting at level 18, which evolves into Pidgeot starting at level 36."
+  },
+  {
+    "Name": "pidgeotto",
+    "image": "images/pidgeotto/main.png",
+    "problem": "What is in the images?",
+    "solution": "This is pidgeotto, and is a Normal/Flying-type Pokemon. Pidgeotto (Japanese: ピジョン Pigeon) is a dual-type Normal/Flying Pokémon introduced in Generation I.\n\nIt evolves from Pidgey starting at level 18 and evolves into Pidgeot starting at level 36."
+  },
+  {
+    "Name": "pidgeot",
+    "image": "images/pidgeot/main.png",
+    "problem": "What is in the images?",
+    "solution": "This is pidgeot, and is a Normal/Flying-type Pokemon. Pidgeot (Japanese: ピジョット Pigeot) is a dual-type Normal/Flying Pokémon introduced in Generation I.\n\nIt evolves from Pidgeotto starting at level 36. It is the final form of Pidgey.\n\nPidgeot can Mega Evolve into Mega Pidgeot using the Pidgeotite."
+  },
+  {
+    "Name": "rattata",
+    "image": "images/rattata/main.png",
+    "problem": "What is in the images?",
+    "solution": "This is rattata, and is a Normal/Dark-type Pokemon. Rattata (Japanese: コラッタ Koratta) is a Normal-type Pokémon introduced in Generation I.\n\nIt evolves into Raticate starting at level 20.\n\nIn Alola, Rattata has a dual-type Dark/Normal regional form. It evolves into Alolan Raticate when leveled up at night starting at level 20.\n\n(Specifics may differ in past games. Refer to Game data→Evolution data for these details.)\n\nIt is the player's first Toy Pokémon in Pokémon Rumble and Pokémon Rumble Rush."
+  },
+  {
+    "Name": "raticate",
+    "image": "images/raticate/main.png",
+    "problem": "What is in the images?",
+    "solution": "This is raticate, and is a Normal/Dark-type Pokemon. Raticate (Japanese: ラッタ Ratta) is a Normal-type Pokémon introduced in Generation I.\n\nIt evolves from Rattata starting at level 20.\n\nIn Alola, Raticate has a dual-type Dark/Normal regional form. It evolves from Alolan Rattata when leveled up at night starting at level 20.\n\n(Specifics may differ in past games. Refer to Game data→Evolution data for these details.)"
+  },
+  {
+    "Name": "spearow",
+    "image": "images/spearow/main.png",
+    "problem": "What is in the images?",
+    "solution": "This is spearow, and is a Normal/Flying-type Pokemon. Spearow (Japanese: オニスズメ Onisuzume) is a dual-type Normal/Flying Pokémon introduced in Generation I.\n\nIt evolves into Fearow starting at level 20."
+  },
+  {
+    "Name": "fearow",
+    "image": "images/fearow/main.png",
+    "problem": "What is in the images?",
+    "solution": "This is fearow, and is a Normal/Flying-type Pokemon. Fearow (Japanese: オニドリル Onidrill) is a dual-type Normal/Flying Pokémon introduced in Generation I.\n\nIt evolves from Spearow starting at level 20."
+  },
+  {
+    "Name": "ekans",
+    "image": "images/ekans/main.png",
+    "problem": "What is in the images?",
+    "solution": "This is ekans, and is a Poison-type Pokemon. Ekans (Japanese: アーボ Arbo) is a Poison-type Pokémon introduced in Generation I.\n\nIt evolves into Arbok starting at level 22."
+  },
+  {
+    "Name": "arbok",
+    "image": "images/arbok/main.png",
+    "problem": "What is in the images?",
+    "solution": "This is arbok, and is a Poison-type Pokemon. Arbok (Japanese: アーボック Arbok) is a Poison-type Pokémon introduced in Generation I.\n\nIt evolves from Ekans starting at level 22."
+  },
+  {
+    "Name": "pikachu",
+    "image": "images/pikachu/main.png",
+    "problem": "What is in the images?",
+    "solution": "This is pikachu, and is a Electric-type Pokemon. Pikachu (Japanese: ピカチュウ Pikachu) is an Electric-type Pokémon introduced in Generation I.\n\nIt evolves from Pichu when leveled up with high friendship and evolves into Raichu when exposed to a Thunder Stone.\n\nIn Alola, Pikachu evolves into Alolan Raichu when exposed to a Thunder Stone.\n\nPikachu has sixteen alternate forms that fall into four groups: Cosplay Pikachu, Pikachu in a cap, the partner Pikachu, and Gigantamax Pikachu. Ordinary Pikachu can Gigantamax into Gigantamax Pikachu if it has the Gigantamax Factor. Additionally, many other Pikachu variants have appeared in various media.\n\nCosplay Pikachu, Pikachu in a cap, the partner Pikachu, and Pikachu with the Gigantamax Factor cannot evolve. The Pikachu received at the beginning of Pokémon Yellow will refuse to evolve into Raichu unless it is traded and evolved on another save file.\n\nPikachu is popularly known as the mascot of the Pokémon franchise and one of Nintendo's major mascots. It is also the game mascot of and the player's first Pokémon in Pokémon Yellow and Let's Go, Pikachu!, the player's first Pokémon in Pokémon Rumble Blast and Pokémon Rumble World, and has made numerous appearances on the covers of spin-off games."
+  },
+  {
+    "Name": "raichu",
+    "image": "images/raichu/main.png",
+    "problem": "What is in the images?",
+    "solution": "This is raichu, and is a Electric/Psychic-type Pokemon. Raichu (Japanese: ライチュウ Raichu) is an Electric-type Pokémon introduced in Generation I.\n\nIt evolves from Pikachu when exposed to a Thunder Stone. It is the final form of Pichu.\n\nIn Alola, Raichu has a dual-type Electric/Psychic regional form. It evolves from Pikachu when exposed to a Thunder Stone. All Pikachu in Alola will evolve into this form regardless of their origin. It is the final form of Pichu in the Alola region."
+  },
+  {
+    "Name": "sandshrew",
+    "image": "images/sandshrew/main.png",
+    "problem": "What is in the images?",
+    "solution": "This is sandshrew, and is a Ground/Ice/Steel-type Pokemon. Sandshrew (Japanese: サンド Sand) is a Ground-type Pokémon introduced in Generation I.\n\nIt evolves into Sandslash starting at level 22.\n\nIn Alola, Sandshrew has a dual-type Ice/Steel regional form. It evolves into Alolan Sandslash when exposed to an Ice Stone. These Sandshrew can also be found in Blueberry Academy's Terarium."
+  },
+  {
+    "Name": "sandslash",
+    "image": "images/sandslash/main.png",
+    "problem": "What is in the images?",
+    "solution": "This is sandslash, and is a Ground/Ice/Steel-type Pokemon. Sandslash (Japanese: サンドパン Sandpan) is a Ground-type Pokémon introduced in Generation I.\n\nIt evolves from Sandshrew starting at level 22.\n\nIn Alola, Sandslash has a dual-type Ice/Steel regional form. It evolves from Alolan Sandshrew when exposed to an Ice Stone. These Sandslash can also be found in Blueberry Academy's Terarium."
+  },
+  {
+    "Name": "nidoran♀",
+    "image": "images/nidoran♀/main.png",
+    "problem": "What is in the images?",
+    "solution": "This is nidoran♀, and is a Poison-type Pokemon. Nidoran♀ (Japanese: ニドラン♀ Nidoran♀) is a Poison-type Pokémon introduced in Generation I.\n\nIt evolves into Nidorina starting at level 16, which evolves into Nidoqueen when exposed to a Moon Stone.\n\nIt is related to the Nidoran♂ line, and when bred with either one of them, it can produce Eggs that contain either Nidoran♀ or Nidoran♂. However, it is the only one of its line that can breed as its evolutions are in the No Eggs Discovered Egg Group."
+  },
+  {
+    "Name": "nidorina",
+    "image": "images/nidorina/main.png",
+    "problem": "What is in the images?",
+    "solution": "This is nidorina, and is a Poison-type Pokemon. Nidorina (Japanese: ニドリーナ Nidorina) is a Poison-type Pokémon introduced in Generation I.\n\nIt evolves from Nidoran♀ starting at level 16 and evolves into Nidoqueen when exposed to a Moon Stone.\n\nIt is related to the Nidoran♂ line, but unlike Nidoran♀, Nidorina cannot breed."
+  },
+  {
+    "Name": "nidoqueen",
+    "image": "images/nidoqueen/main.png",
+    "problem": "What is in the images?",
+    "solution": "This is nidoqueen, and is a Poison/Ground-type Pokemon. Nidoqueen (Japanese: ニドクイン Nidoqueen) is a dual-type Poison/Ground Pokémon introduced in Generation I.\n\nIt evolves from Nidorina when exposed to a Moon Stone. It is the final form of Nidoran♀.\n\nIt is related to the Nidoran♂ line, but unlike Nidoran♀, Nidoqueen cannot breed."
+  },
+  {
+    "Name": "nidoran♂",
+    "image": "images/nidoran♂/main.png",
+    "problem": "What is in the images?",
+    "solution": "This is nidoran♂, and is a Poison-type Pokemon. Nidoran♂ (Japanese: ニドラン♂ Nidoran♂) is a Poison-type Pokémon introduced in Generation I.\n\nIt evolves into Nidorino starting at level 16, which evolves into Nidoking when exposed to a Moon Stone.\n\nIt is related to Nidoran♀, serving as its male counterpart. When bred with Ditto as of Generation V, it can produce Eggs that contain either Nidoran♂ or Nidoran♀."
+  },
+  {
+    "Name": "nidorino",
+    "image": "images/nidorino/main.png",
+    "problem": "What is in the images?",
+    "solution": "This is nidorino, and is a Poison-type Pokemon. Nidorino (Japanese: ニドリーノ Nidorino) is a Poison-type Pokémon introduced in Generation I.\n\nIt evolves from Nidoran♂ starting at level 16 and evolves into Nidoking when exposed to a Moon Stone.\n\nIt is related to the Nidoran♀ line, serving as Nidorina's male counterpart. Starting in Generation V, it can produce Eggs that contain either Nidoran♂ or Nidoran♀ when bred with Ditto."
+  },
+  {
+    "Name": "nidoking",
+    "image": "images/nidoking/main.png",
+    "problem": "What is in the images?",
+    "solution": "This is nidoking, and is a Poison/Ground-type Pokemon. Nidoking (Japanese: ニドキング Nidoking) is a dual-type Poison/Ground Pokémon introduced in Generation I.\n\nIt evolves from Nidorino when exposed to a Moon Stone. It is the final form of Nidoran♂.\n\nIt is related to the Nidoran♀ line, serving as Nidoqueen's male counterpart. Starting in Generation V, it can produce Eggs that contain either Nidoran♂ or Nidoran♀ when bred with Ditto."
+  },
+  {
+    "Name": "clefairy",
+    "image": "images/clefairy/main.png",
+    "problem": "What is in the images?",
+    "solution": "This is clefairy, and is a Fairy-type Pokemon. Clefairy (Japanese: ピッピ Pippi) is a Fairy-type Pokémon introduced in Generation I. Prior to Generation VI, it was a Normal-type Pokémon.\n\nIt evolves from Cleffa when leveled up with high friendship and evolves into Clefable when exposed to a Moon Stone."
+  },
+  {
+    "Name": "clefable",
+    "image": "images/clefable/main.png",
+    "problem": "What is in the images?",
+    "solution": "This is clefable, and is a Fairy-type Pokemon. Clefable (Japanese: ピクシー Pixy) is a Fairy-type Pokémon introduced in Generation I. Prior to Generation VI, it was a Normal-type Pokémon.\n\nIt evolves from Clefairy when exposed to a Moon Stone. It is the final form of Cleffa."
+  },
+  {
+    "Name": "vulpix",
+    "image": "images/vulpix/main.png",
+    "problem": "What is in the images?",
+    "solution": "This is vulpix, and is a Fire/Ice-type Pokemon. Vulpix (Japanese: ロコン Rokon) is a Fire-type Pokémon introduced in Generation I.\n\nIt evolves into Ninetales when exposed to a Fire Stone.\n\nIn Alola, Vulpix has an Ice-type regional form. It evolves into Alolan Ninetales when exposed to an Ice Stone. These Vulpix can also be found in Blueberry Academy's Terarium."
+  },
+  {
+    "Name": "ninetales",
+    "image": "images/ninetales/main.png",
+    "problem": "What is in the images?",
+    "solution": "This is ninetales, and is a Fire/Ice/Fairy-type Pokemon. Ninetales (Japanese: キュウコン Kyukon) is a Fire-type Pokémon introduced in Generation I.\n\nIt evolves from Vulpix when exposed to a Fire Stone.\n\nIn Alola, Ninetales has a dual-type Ice/Fairy regional form. It evolves from Alolan Vulpix when exposed to an Ice Stone. These Ninetales can also be found in Blueberry Academy's Terarium."
+  },
+  {
+    "Name": "jigglypuff",
+    "image": "images/jigglypuff/main.png",
+    "problem": "What is in the images?",
+    "solution": "This is jigglypuff, and is a Normal/Fairy-type Pokemon. Jigglypuff (Japanese: プリン Purin) is a dual-type Normal/Fairy Pokémon introduced in Generation I. Prior to Generation VI, it was a pure Normal-type Pokémon.\n\nIt evolves from Igglybuff when leveled up with high friendship and evolves into Wigglytuff when exposed to a Moon Stone.\n\nThe Paradox Pokémon Scream Tail is said to be an ancient relative of Jigglypuff or a counterpart of it from a parallel timeline."
+  },
+  {
+    "Name": "wigglytuff",
+    "image": "images/wigglytuff/main.png",
+    "problem": "What is in the images?",
+    "solution": "This is wigglytuff, and is a Normal/Fairy-type Pokemon. Wigglytuff (Japanese: プクリン Pukurin) is a dual-type Normal/Fairy Pokémon introduced in Generation I. Prior to Generation VI, it was a pure Normal-type Pokémon.\n\nIt evolves from Jigglypuff when exposed to a Moon Stone. It is the final form of Igglybuff."
+  },
+  {
+    "Name": "zubat",
+    "image": "images/zubat/main.png",
+    "problem": "What is in the images?",
+    "solution": "This is zubat, and is a Poison/Flying-type Pokemon. Zubat (Japanese: ズバット Zubat) is a dual-type Poison/Flying Pokémon introduced in Generation I.\n\nIt evolves into Golbat starting at level 22, which evolves into Crobat when leveled up with high friendship.\n\n(Specifics may differ in past games. Refer to Game data→Evolution data for these details.)"
+  },
+  {
+    "Name": "golbat",
+    "image": "images/golbat/main.png",
+    "problem": "What is in the images?",
+    "solution": "This is golbat, and is a Poison/Flying-type Pokemon. Golbat (Japanese: ゴルバット Golbat) is a dual-type Poison/Flying Pokémon introduced in Generation I.\n\nIt evolves from Zubat starting at level 22 and evolves into Crobat when leveled up with high friendship.\n\n(Specifics may differ in past games. Refer to Game data→Evolution data for these details.)"
+  },
+  {
+    "Name": "oddish",
+    "image": "images/oddish/main.png",
+    "problem": "What is in the images?",
+    "solution": "This is oddish, and is a Grass/Poison-type Pokemon. Oddish (Japanese: ナゾノクサ Nazonokusa) is a dual-type Grass/Poison Pokémon introduced in Generation I.\n\nIt evolves into Gloom starting at level 21, which evolves into either Vileplume when exposed to a Leaf Stone or Bellossom when exposed to a Sun Stone.\n\n(Specifics may differ in past games. Refer to Game data→Evolution data for these details.)"
+  },
+  {
+    "Name": "gloom",
+    "image": "images/gloom/main.png",
+    "problem": "What is in the images?",
+    "solution": "This is gloom, and is a Grass/Poison-type Pokemon. Gloom (Japanese: クサイハナ Kusaihana) is a dual-type Grass/Poison Pokémon introduced in Generation I.\n\nIt evolves from Oddish at level 21 and evolves into either Vileplume when exposed to a Leaf Stone or Bellossom when exposed to a Sun Stone.\n\n(Specifics may differ in past games. Refer to Game data→Evolution data for these details.)"
+  },
+  {
+    "Name": "vileplume",
+    "image": "images/vileplume/main.png",
+    "problem": "What is in the images?",
+    "solution": "This is vileplume, and is a Grass/Poison-type Pokemon. Vileplume (Japanese: ラフレシア Ruffresia) is a dual-type Grass/Poison Pokémon introduced in Generation I.\n\nIt evolves from Gloom when exposed to a Leaf Stone. It is one of Oddish's final forms, the other being Bellossom."
+  },
+  {
+    "Name": "paras",
+    "image": "images/paras/main.png",
+    "problem": "What is in the images?",
+    "solution": "This is paras, and is a Bug/Grass-type Pokemon. Paras (Japanese: パラス Paras) is a dual-type Bug/Grass Pokémon introduced in Generation I.\n\nIt evolves into Parasect starting at level 24."
+  },
+  {
+    "Name": "parasect",
+    "image": "images/parasect/main.png",
+    "problem": "What is in the images?",
+    "solution": "This is parasect, and is a Bug/Grass-type Pokemon. Parasect (Japanese: パラセクト Parasect) is a dual-type Bug/Grass Pokémon introduced in Generation I.\n\nIt evolves from Paras starting at level 24."
+  },
+  {
+    "Name": "venonat",
+    "image": "images/venonat/main.png",
+    "problem": "What is in the images?",
+    "solution": "This is venonat, and is a Bug/Poison-type Pokemon. Venonat (Japanese: コンパン Kongpang) is a dual-type Bug/Poison Pokémon introduced in Generation I.\n\nIt evolves into Venomoth starting at level 31."
+  },
+  {
+    "Name": "venomoth",
+    "image": "images/venomoth/main.png",
+    "problem": "What is in the images?",
+    "solution": "This is venomoth, and is a Bug/Poison-type Pokemon. Venomoth (Japanese: モルフォン Morphon) is a dual-type Bug/Poison Pokémon introduced in Generation I.\n\nIt evolves from Venonat starting at level 31."
+  },
+  {
+    "Name": "diglett",
+    "image": "images/diglett/main.png",
+    "problem": "What is in the images?",
+    "solution": "This is diglett, and is a Ground/Steel-type Pokemon. Diglett (Japanese: ディグダ Digda) is a Ground-type Pokémon introduced in Generation I.\n\nIt evolves into Dugtrio starting at level 26.\n\nIn Alola, Diglett has a dual-type Ground/Steel regional form. It evolves into Alolan Dugtrio starting at level 26.\n\nIt is ecologically similar to Wiglett; however, the two are separate species."
+  },
+  {
+    "Name": "dugtrio",
+    "image": "images/dugtrio/main.png",
+    "problem": "What is in the images?",
+    "solution": "This is dugtrio, and is a Ground/Steel-type Pokemon. Dugtrio (Japanese: ダグトリオ Dugtrio) is a Ground-type Pokémon introduced in Generation I.\n\nIt evolves from Diglett starting at level 26.\n\nIn Alola, Dugtrio has a dual-type Ground/Steel regional form. It evolves from Alolan Diglett starting at level 26.\n\nIt is ecologically similar to Wugtrio; however, the two are separate species."
+  },
+  {
+    "Name": "meowth",
+    "image": "images/meowth/main.png",
+    "problem": "What is in the images?",
+    "solution": "This is meowth, and is a Normal/Dark/Steel-type Pokemon. Meowth (Japanese: ニャース Nyarth) is a Normal-type Pokémon introduced in Generation I.\n\nIt evolves into Persian starting at level 28.\n\nIn Alola, Meowth has a Dark-type regional form. It evolves into Alolan Persian when leveled up with high friendship.\n\nIn Galar, Meowth has a Steel-type regional form. It evolves into Perrserker starting at level 28.\n\n(Specifics may differ in past games. Refer to Game data→Evolution data for these details.)\n\nKantonian Meowth can Gigantamax into Gigantamax Meowth if it has the Gigantamax Factor. Meowth with the Gigantamax Factor cannot evolve."
+  },
+  {
+    "Name": "persian",
+    "image": "images/persian/main.png",
+    "problem": "What is in the images?",
+    "solution": "This is persian, and is a Normal/Dark-type Pokemon. Persian (Japanese: ペルシアン Persian) is a Normal-type Pokémon introduced in Generation I.\n\nIt evolves from Meowth starting at level 28.\n\nIn Alola, Persian has a Dark-type regional form. It evolves from Alolan Meowth when leveled up with high friendship.\n\n(Specifics may differ in past games. Refer to Game data→Evolution data for these details.)"
+  },
+  {
+    "Name": "psyduck",
+    "image": "images/psyduck/main.png",
+    "problem": "What is in the images?",
+    "solution": "This is psyduck, and is a Water-type Pokemon. Psyduck (Japanese: コダック Koduck) is a Water-type Pokémon introduced in Generation I.\n\nIt evolves into Golduck starting at level 33."
+  },
+  {
+    "Name": "golduck",
+    "image": "images/golduck/main.png",
+    "problem": "What is in the images?",
+    "solution": "This is golduck, and is a Water-type Pokemon. Golduck (Japanese: ゴルダック Golduck) is a Water-type Pokémon introduced in Generation I.\n\nIt evolves from Psyduck starting at level 33."
+  },
+  {
+    "Name": "mankey",
+    "image": "images/mankey/main.png",
+    "problem": "What is in the images?",
+    "solution": "This is mankey, and is a Fighting-type Pokemon. Mankey (Japanese: マンキー Mankey) is a Fighting-type Pokémon introduced in Generation I.\n\nIt evolves into Primeape starting at level 28, which evolves into Annihilape when leveled up after using Rage Fist twenty times."
+  },
+  {
+    "Name": "primeape",
+    "image": "images/primeape/main.png",
+    "problem": "What is in the images?",
+    "solution": "This is primeape, and is a Fighting-type Pokemon. Primeape (Japanese: オコリザル Okorizaru) is a Fighting-type Pokémon introduced in Generation I.\n\nIt evolves from Mankey starting at level 28 and evolves into Annihilape when leveled up after using Rage Fist twenty times."
+  },
+  {
+    "Name": "growlithe",
+    "image": "images/growlithe/main.png",
+    "problem": "What is in the images?",
+    "solution": "This is growlithe, and is a Fire/Rock-type Pokemon. Growlithe (Japanese: ガーディ Gardie) is a Fire-type Pokémon introduced in Generation I.\n\nIt evolves into Arcanine when exposed to a Fire Stone.\n\nIn Hisui, Growlithe has a dual-type Fire/Rock regional form. It evolves into Hisuian Arcanine when exposed to a Fire Stone."
+  },
+  {
+    "Name": "arcanine",
+    "image": "images/arcanine/main.png",
+    "problem": "What is in the images?",
+    "solution": "This is arcanine, and is a Fire/Rock-type Pokemon. Arcanine (Japanese: ウインディ Windie) is a Fire-type Pokémon introduced in Generation I.\n\nIt evolves from Growlithe when exposed to a Fire Stone.\n\nIn Hisui, Arcanine has a dual-type Fire/Rock regional form. It evolves from Hisuian Growlithe when exposed to a Fire Stone."
+  },
+  {
+    "Name": "poliwag",
+    "image": "images/poliwag/main.png",
+    "problem": "What is in the images?",
+    "solution": "This is poliwag, and is a Water-type Pokemon. Poliwag (Japanese: ニョロモ Nyoromo) is a Water-type Pokémon introduced in Generation I.\n\nIt evolves into Poliwhirl starting at level 25, which evolves into Poliwrath when exposed to a Water Stone or Politoed when traded while holding a King's Rock.\n\n(Specifics may differ in past games. Refer to Game data→Evolution data for these details.)"
+  },
+  {
+    "Name": "poliwhirl",
+    "image": "images/poliwhirl/main.png",
+    "problem": "What is in the images?",
+    "solution": "This is poliwhirl, and is a Water-type Pokemon. Poliwhirl (Japanese: ニョロゾ Nyorozo) is a Water-type Pokémon introduced in Generation I.\n\nIt evolves from Poliwag starting at level 25 and evolves into either Poliwrath when exposed to a Water Stone or Politoed when traded while holding a King's Rock.\n\n(Specifics may differ in past games. Refer to Game data→Evolution data for these details.)"
+  },
+  {
+    "Name": "poliwrath",
+    "image": "images/poliwrath/main.png",
+    "problem": "What is in the images?",
+    "solution": "This is poliwrath, and is a Water/Fighting-type Pokemon. Poliwrath (Japanese: ニョロボン Nyorobon) is a dual-type Water/Fighting Pokémon introduced in Generation I.\n\nIt evolves from Poliwhirl when exposed to a Water Stone. It is one of Poliwag's final forms, the other being Politoed.\n\n(Specifics may differ in past games. Refer to Game data→Evolution data for these details.)"
+  },
+  {
+    "Name": "abra",
+    "image": "images/abra/main.png",
+    "problem": "What is in the images?",
+    "solution": "This is abra, and is a Psychic-type Pokemon. Abra (Japanese: ケーシィ Casey) is a Psychic-type Pokémon introduced in Generation I.\n\nIt evolves into Kadabra starting at level 16, which evolves into Alakazam when traded or when exposed to a Linking Cord.\n\n(Refer to Game data→Evolution data for more details.)"
+  },
+  {
+    "Name": "kadabra",
+    "image": "images/kadabra/main.png",
+    "problem": "What is in the images?",
+    "solution": "This is kadabra, and is a Psychic-type Pokemon. Kadabra (Japanese: ユンゲラー Yungerer) is a Psychic-type Pokémon introduced in Generation I.\n\nIt evolves from Abra starting at level 16 and evolves into Alakazam when traded or when exposed to a Linking Cord.\n\n(Refer to Game data→Evolution data for more details.)"
+  },
+  {
+    "Name": "alakazam",
+    "image": "images/alakazam/main.png",
+    "problem": "What is in the images?",
+    "solution": "This is alakazam, and is a Psychic-type Pokemon. Alakazam (Japanese: フーディン Foodin) is a Psychic-type Pokémon introduced in Generation I.\n\nIt evolves from Kadabra when traded or when exposed to a Linking Cord. It is the final form of Abra.\n\n(Refer to Game data→Evolution data for more details.)\n\nAlakazam can Mega Evolve into Mega Alakazam using the Alakazite."
+  },
+  {
+    "Name": "machop",
+    "image": "images/machop/main.png",
+    "problem": "What is in the images?",
+    "solution": "This is machop, and is a Fighting-type Pokemon. Machop (Japanese: ワンリキー Wanriky) is a Fighting-type Pokémon introduced in Generation I.\n\nIt evolves into Machoke starting at level 28, which evolves into Machamp when traded or when exposed to a Linking Cord.\n\n(Refer to Game data→Evolution data for more details.)"
+  },
+  {
+    "Name": "machoke",
+    "image": "images/machoke/main.png",
+    "problem": "What is in the images?",
+    "solution": "This is machoke, and is a Fighting-type Pokemon. Machoke (Japanese: ゴーリキー Goriky) is a Fighting-type Pokémon introduced in Generation I.\n\nIt evolves from Machop starting at level 28 and evolves into Machamp when traded or when exposed to a Linking Cord.\n\n(Refer to Game data→Evolution data for more details.)"
+  },
+  {
+    "Name": "machamp",
+    "image": "images/machamp/main.png",
+    "problem": "What is in the images?",
+    "solution": "This is machamp, and is a Fighting-type Pokemon. Machamp (Japanese: カイリキー Kairiky) is a Fighting-type Pokémon introduced in Generation I.\n\nIt evolves from Machoke when traded or when exposed to a Linking Cord. It is the final form of Machop.\n\n(Refer to Game data→Evolution data for more details.)\n\nMachamp can Gigantamax into Gigantamax Machamp if it has the Gigantamax Factor."
+  },
+  {
+    "Name": "bellsprout",
+    "image": "images/bellsprout/main.png",
+    "problem": "What is in the images?",
+    "solution": "This is bellsprout, and is a Grass/Poison-type Pokemon. Bellsprout (Japanese: マダツボミ Madatsubomi) is a dual-type Grass/Poison Pokémon introduced in Generation I.\n\nIt evolves into Weepinbell starting at level 21, which evolves into Victreebel when exposed to a Leaf Stone."
+  },
+  {
+    "Name": "weepinbell",
+    "image": "images/weepinbell/main.png",
+    "problem": "What is in the images?",
+    "solution": "This is weepinbell, and is a Grass/Poison-type Pokemon. Weepinbell (Japanese: ウツドン Utsudon) is a dual-type Grass/Poison Pokémon introduced in Generation I.\n\nIt evolves from Bellsprout starting at level 21 and evolves into Victreebel when exposed to a Leaf Stone."
+  },
+  {
+    "Name": "victreebel",
+    "image": "images/victreebel/main.png",
+    "problem": "What is in the images?",
+    "solution": "This is victreebel, and is a Grass/Poison-type Pokemon. Victreebel (Japanese: ウツボット Utsubot) is a dual-type Grass/Poison Pokémon introduced in Generation I.\n\nIt evolves from Weepinbell when exposed to a Leaf Stone. It is the final form of Bellsprout."
+  },
+  {
+    "Name": "tentacool",
+    "image": "images/tentacool/main.png",
+    "problem": "What is in the images?",
+    "solution": "This is tentacool, and is a Water/Poison-type Pokemon. Tentacool (Japanese: メノクラゲ Menokurage) is a dual-type Water/Poison Pokémon introduced in Generation I.\n\nIt evolves into Tentacruel starting at level 30.\n\nIt is ecologically similar to Toedscool; however, the two are separate species."
+  },
+  {
+    "Name": "tentacruel",
+    "image": "images/tentacruel/main.png",
+    "problem": "What is in the images?",
+    "solution": "This is tentacruel, and is a Water/Poison-type Pokemon. Tentacruel (Japanese: ドククラゲ Dokukurage) is a dual-type Water/Poison Pokémon introduced in Generation I.\n\nIt evolves from Tentacool starting at level 30.\n\nIt is ecologically similar to Toedscruel; however, the two are separate species."
+  },
+  {
+    "Name": "geodude",
+    "image": "images/geodude/main.png",
+    "problem": "What is in the images?",
+    "solution": "This is geodude, and is a Rock/Ground/Electric-type Pokemon. Geodude (Japanese: イシツブテ Isitsubute) is a dual-type Rock/Ground Pokémon introduced in Generation I.\n\nIt evolves into Graveler starting at level 25, which evolves into Golem when traded or when exposed to a Linking Cord.\n\nIn Alola, Geodude has a dual-type Rock/Electric regional form. It evolves into Alolan Graveler starting at level 25, which evolves into Alolan Golem when traded. These Geodude can also be found in Blueberry Academy's Terarium.\n\n(Refer to Game data→Evolution data for more details.)"
+  },
+  {
+    "Name": "graveler",
+    "image": "images/graveler/main.png",
+    "problem": "What is in the images?",
+    "solution": "This is graveler, and is a Rock/Ground/Electric-type Pokemon. Graveler (Japanese: ゴローン Golone) is a dual-type Rock/Ground Pokémon introduced in Generation I.\n\nIt evolves from Geodude starting at level 25 and evolves into Golem when traded or when exposed to a Linking Cord.\n\nIn Alola, Graveler has a dual-type Rock/Electric regional form. It evolves from Alolan Geodude starting at level 25 and evolves into Alolan Golem when traded. These Graveler can also be found in Blueberry Academy's Terarium.\n\n(Refer to Game data→Evolution data for more details.)"
+  },
+  {
+    "Name": "golem",
+    "image": "images/golem/main.png",
+    "problem": "What is in the images?",
+    "solution": "This is golem, and is a Rock/Ground/Electric-type Pokemon. Golem (Japanese: ゴローニャ Golonya) is a dual-type Rock/Ground Pokémon introduced in Generation I.\n\nIt evolves from Graveler when traded or when exposed to a Linking Cord. It is the final form of Geodude.\n\nIn Alola, Golem has a dual-type Rock/Electric regional form. It evolves from Alolan Graveler when traded. It is the final form of Alolan Geodude. These Golem can also be found in Blueberry Academy's Terarium.\n\n(Refer to Game data→Evolution data for more details.)"
+  },
+  {
+    "Name": "ponyta",
+    "image": "images/ponyta/main.png",
+    "problem": "What is in the images?",
+    "solution": "This is ponyta, and is a Fire/Psychic-type Pokemon. Ponyta (Japanese: ポニータ Ponyta) is a Fire-type Pokémon introduced in Generation I.\n\nIt evolves into Rapidash starting at level 40.\n\nIn Galar, Ponyta has a Psychic-type regional form. It evolves into Galarian Rapidash starting at level 40."
+  },
+  {
+    "Name": "rapidash",
+    "image": "images/rapidash/main.png",
+    "problem": "What is in the images?",
+    "solution": "This is rapidash, and is a Fire/Psychic/Fairy-type Pokemon. Rapidash (Japanese: ギャロップ Gallop) is a Fire-type Pokémon introduced in Generation I.\n\nIt evolves from Ponyta starting at level 40.\n\nIn Galar, Rapidash has a dual-type Psychic/Fairy regional form. It evolves from Galarian Ponyta starting at level 40."
+  },
+  {
+    "Name": "slowpoke",
+    "image": "images/slowpoke/main.png",
+    "problem": "What is in the images?",
+    "solution": "This is slowpoke, and is a Water/Psychic-type Pokemon. Slowpoke (Japanese: ヤドン Yadon) is a dual-type Water/Psychic Pokémon introduced in Generation I.\n\nIt evolves into Slowbro starting at level 37 or Slowking when traded while holding a King's Rock.\n\nIn Galar, Slowpoke has a pure Psychic-type regional form, introduced in Pokémon Sword and Shield's 1.1.0 patch. It evolves into either Galarian Slowbro when exposed to a Galarica Cuff or Galarian Slowking when exposed to a Galarica Wreath. These Slowpoke can also be found in Blueberry Academy's Terarium.\n\n(Specifics may differ in past games. Refer to Game data→Evolution data for these details.)"
+  },
+  {
+    "Name": "slowbro",
+    "image": "images/slowbro/main.png",
+    "problem": "What is in the images?",
+    "solution": "This is slowbro, and is a Water/Psychic/Poison-type Pokemon. Slowbro (Japanese: ヤドラン Yadoran) is a dual-type Water/Psychic Pokémon introduced in Generation I.\n\nIt evolves from Slowpoke starting at level 37. It is one of Slowpoke's final forms, the other being Slowking.\n\nSlowbro can Mega Evolve into Mega Slowbro using the Slowbronite.\n\nIn Galar, Slowbro has a dual-type Poison/Psychic regional form, introduced in Pokémon Sword and Shield's 1.2.0 patch. It evolves from Galarian Slowpoke when exposed to a Galarica Cuff. It is one of Galarian Slowpoke's final forms, the other being Galarian Slowking. These Slowbro can also be found in Blueberry Academy's Terarium."
+  },
+  {
+    "Name": "magnemite",
+    "image": "images/magnemite/main.png",
+    "problem": "What is in the images?",
+    "solution": "This is magnemite, and is a Electric/Steel-type Pokemon. Magnemite (Japanese: コイル Coil) is a dual-type Electric/Steel Pokémon introduced in Generation I. Prior to Generation II, it was a pure Electric-type Pokémon.\n\nIt evolves into Magneton starting at level 30, which evolves into Magnezone when leveled up in a special magnetic field or when exposed to a Thunder Stone.\n\n(Specifics may differ in past games. Refer to Game data→Evolution data for these details.)"
+  },
+  {
+    "Name": "magneton",
+    "image": "images/magneton/main.png",
+    "problem": "What is in the images?",
+    "solution": "This is magneton, and is a Electric/Steel-type Pokemon. Magneton (Japanese: レアコイル Rarecoil) is a dual-type Electric/Steel Pokémon introduced in Generation I. Prior to Generation II, it was a pure Electric-type Pokémon.\n\nIt evolves from Magnemite starting at level 30 and evolves into Magnezone when leveled up in a special magnetic field or when exposed to a Thunder Stone.\n\n(Specifics may differ in past games. Refer to Game data→Evolution data for these details.)\n\nThe Paradox Pokémon Sandy Shocks is said to be an ancient relative of Magneton or a counterpart of it from a parallel timeline."
+  },
+  {
+    "Name": "farfetch'd",
+    "image": "images/farfetch'd/main.png",
+    "problem": "What is in the images?",
+    "solution": "This is farfetch'd, and is a Normal/Flying/Fighting-type Pokemon. Farfetch'd (Japanese: カモネギ Kamonegi) is a dual-type Normal/Flying Pokémon introduced in Generation I.\n\nIn Galar, Farfetch'd has a Fighting-type regional form. Galarian Farfetch'd evolves into Sirfetch'd after landing three critical hits in a single battle (without running or losing). Kantonian Farfetch'd is not known to evolve into or from any other Pokémon."
+  },
+  {
+    "Name": "doduo",
+    "image": "images/doduo/main.png",
+    "problem": "What is in the images?",
+    "solution": "This is doduo, and is a Normal/Flying-type Pokemon. Doduo (Japanese: ドードー Dodo) is a dual-type Normal/Flying Pokémon introduced in Generation I.\n\nIt evolves into Dodrio starting at level 31."
+  },
+  {
+    "Name": "dodrio",
+    "image": "images/dodrio/main.png",
+    "problem": "What is in the images?",
+    "solution": "This is dodrio, and is a Normal/Flying-type Pokemon. Dodrio (Japanese: ドードリオ Dodorio) is a dual-type Normal/Flying Pokémon introduced in Generation I.\n\nIt evolves from Doduo starting at level 31."
+  },
+  {
+    "Name": "seel",
+    "image": "images/seel/main.png",
+    "problem": "What is in the images?",
+    "solution": "This is seel, and is a Water-type Pokemon. Seel (Japanese: パウワウ Pawou) is a Water-type Pokémon introduced in Generation I.\n\nIt evolves into Dewgong starting at level 34."
+  },
+  {
+    "Name": "dewgong",
+    "image": "images/dewgong/main.png",
+    "problem": "What is in the images?",
+    "solution": "This is dewgong, and is a Water/Ice-type Pokemon. Dewgong (Japanese: ジュゴン Jugon) is a dual-type Water/Ice Pokémon introduced in Generation I.\n\nIt evolves from Seel starting at level 34."
+  },
+  {
+    "Name": "grimer",
+    "image": "images/grimer/main.png",
+    "problem": "What is in the images?",
+    "solution": "This is grimer, and is a Poison/Dark-type Pokemon. Grimer (Japanese: ベトベター Betbeter) is a Poison-type Pokémon introduced in Generation I.\n\nIt evolves into Muk starting at level 38.\n\nIn Alola, Grimer has a dual-type Poison/Dark regional form. It evolves into Alolan Muk starting at level 38. These Grimer can also be found in Blueberry Academy's Terarium."
+  },
+  {
+    "Name": "muk",
+    "image": "images/muk/main.png",
+    "problem": "What is in the images?",
+    "solution": "This is muk, and is a Poison/Dark-type Pokemon. Muk (Japanese: ベトベトン Betbeton) is a Poison-type Pokémon introduced in Generation I.\n\nIt evolves from Grimer starting at level 38.\n\nIn Alola, Muk has a dual-type Poison/Dark regional form. It evolves from Alolan Grimer starting at level 38. These Muk can also be found in Blueberry Academy's Terarium."
+  },
+  {
+    "Name": "shellder",
+    "image": "images/shellder/main.png",
+    "problem": "What is in the images?",
+    "solution": "This is shellder, and is a Water-type Pokemon. Shellder (Japanese: シェルダー Shellder) is a Water-type Pokémon introduced in Generation I.\n\nIt evolves into Cloyster when exposed to a Water Stone."
+  },
+  {
+    "Name": "cloyster",
+    "image": "images/cloyster/main.png",
+    "problem": "What is in the images?",
+    "solution": "This is cloyster, and is a Water/Ice-type Pokemon. Cloyster (Japanese: パルシェン Parshen) is a dual-type Water/Ice Pokémon introduced in Generation I.\n\nIt evolves from Shellder when exposed to a Water Stone."
+  },
+  {
+    "Name": "gastly",
+    "image": "images/gastly/main.png",
+    "problem": "What is in the images?",
+    "solution": "This is gastly, and is a Ghost/Poison-type Pokemon. Gastly (Japanese: ゴース Ghos) is a dual-type Ghost/Poison Pokémon introduced in Generation I.\n\nIt evolves into Haunter starting at level 25, which evolves into Gengar when traded or when exposed to a Linking Cord.\n\n(Refer to Game data→Evolution data for more details.)"
+  },
+  {
+    "Name": "haunter",
+    "image": "images/haunter/main.png",
+    "problem": "What is in the images?",
+    "solution": "This is haunter, and is a Ghost/Poison-type Pokemon. Haunter (Japanese: ゴースト Ghost) is a dual-type Ghost/Poison Pokémon introduced in Generation I.\n\nIt evolves from Gastly starting at level 25 and evolves into Gengar when traded or when exposed to a Linking Cord.\n\n(Refer to Game data→Evolution data for more details.)"
+  },
+  {
+    "Name": "gengar",
+    "image": "images/gengar/main.png",
+    "problem": "What is in the images?",
+    "solution": "This is gengar, and is a Ghost/Poison-type Pokemon. Gengar (Japanese: ゲンガー Gangar) is a dual-type Ghost/Poison Pokémon introduced in Generation I.\n\nIt evolves from Haunter when traded or when exposed to a Linking Cord. It is the final form of Gastly.\n\n(Refer to Game data→Evolution data for more details.)\n\nAdditionally, Gengar has two forms: Mega Gengar and Gigantamax Gengar. It can Mega Evolve into Mega Gengar using the Gengarite, and can Gigantamax into Gigantamax Gengar if it has the Gigantamax Factor."
+  },
+  {
+    "Name": "onix",
+    "image": "images/onix/main.png",
+    "problem": "What is in the images?",
+    "solution": "This is onix, and is a Rock/Ground-type Pokemon. Onix (Japanese: イワーク Iwark) is a dual-type Rock/Ground Pokémon introduced in Generation I.\n\nIt evolves into Steelix when traded while holding a Metal Coat.\n\n(Specifics may differ in past games. Refer to Game data→Evolution data for more details)."
+  },
+  {
+    "Name": "drowzee",
+    "image": "images/drowzee/main.png",
+    "problem": "What is in the images?",
+    "solution": "This is drowzee, and is a Psychic-type Pokemon. Drowzee (Japanese: スリープ Sleepe) is a Psychic-type Pokémon introduced in Generation I.\n\nIt evolves into Hypno starting at level 26."
+  },
+  {
+    "Name": "hypno",
+    "image": "images/hypno/main.png",
+    "problem": "What is in the images?",
+    "solution": "This is hypno, and is a Psychic-type Pokemon. Hypno (Japanese: スリーパー Sleeper) is a Psychic-type Pokémon introduced in Generation I.\n\nIt evolves from Drowzee starting at level 26."
+  },
+  {
+    "Name": "krabby",
+    "image": "images/krabby/main.png",
+    "problem": "What is in the images?",
+    "solution": "This is krabby, and is a Water-type Pokemon. Krabby (Japanese: クラブ Crab) is a Water-type Pokémon introduced in Generation I.\n\nIt evolves into Kingler starting at level 28."
+  },
+  {
+    "Name": "kingler",
+    "image": "images/kingler/main.png",
+    "problem": "What is in the images?",
+    "solution": "This is kingler, and is a Water-type Pokemon. Kingler (Japanese: キングラー Kingler) is a Water-type Pokémon introduced in Generation I.\n\nIt evolves from Krabby starting at level 28.\n\nKingler can Gigantamax into Gigantamax Kingler if it has the Gigantamax Factor."
+  },
+  {
+    "Name": "voltorb",
+    "image": "images/voltorb/main.png",
+    "problem": "What is in the images?",
+    "solution": "This is voltorb, and is a Electric/Grass-type Pokemon. Voltorb (Japanese: ビリリダマ Biriridama) is an Electric-type Pokémon introduced in Generation I.\n\nIt evolves into Electrode starting at level 30.\n\nIn Hisui, Voltorb has a dual-type Electric/Grass regional form. It evolves into Hisuian Electrode when exposed to a Leaf Stone."
+  }
+]
