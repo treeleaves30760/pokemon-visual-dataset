@@ -1,7 +1,7 @@
 import json
 import os
 
-def generate_basic_dialogues(input_file="data/pokemon_data.json", output_file="data/basicQA.json"):
+def generate_basic_dialogues(input_file="data/pokemon_data.json", output_file="data/basicQA.json", mode='simple'):
     """Generate basic question-answer pairs for each Pokemon."""
     # Check if input file exists
     if not os.path.exists(input_file):
@@ -43,23 +43,19 @@ def generate_basic_dialogues(input_file="data/pokemon_data.json", output_file="d
             else:
                 type_text = f"{'/'.join(types)}-type"
             
-            # Get the biology description
-            biology_description = pokemon.get("biology_description", "")
-            if not biology_description:
-                biology_description = pokemon.get("general_description", "")
-            
-            # Create the simplified first sentence of the biology description
-            if biology_description:
-                first_sentence = biology_description.split('.')[0] + '.'
-            else:
-                first_sentence = ""
+            # Get the description
+            description = ""
+            if mode == 'simple':
+                description = pokemon.get("general_description", "")
+            elif mode == 'detailed':
+                description = pokemon.get("general_description", "") + "\n" + pokemon.get("biology_description", "")
             
             # Create the dialogue entry
             dialogue = {
                 "Name": name,
                 "image": main_image_path,
                 "problem": "What is in the images?",
-                "solution": f"This is {name}, and is a {type_text} Pokemon. {first_sentence}"
+                "solution": f"This is {name}, and is a {type_text} Pokemon. {description}"
             }
             
             basic_dialogues.append(dialogue)
@@ -85,4 +81,7 @@ def generate_basic_dialogues(input_file="data/pokemon_data.json", output_file="d
         return False
 
 if __name__ == "__main__":
-    generate_basic_dialogues() 
+    # Generate detailed dialogues
+    generate_basic_dialogues(input_file="data/pokemon_data_100.json", output_file="data/basicQA_100.json", mode='detailed') 
+    # Generate simple dialogues
+    generate_basic_dialogues(input_file="data/pokemon_data_100.json", output_file="data/basicQA_100_simple.json", mode='simple') 
