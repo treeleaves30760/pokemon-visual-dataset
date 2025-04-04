@@ -85,3 +85,8 @@ if __name__ == "__main__":
     generate_basic_dialogues(input_file="data/pokemon_data_100.json", output_file="data/basicQA_100.json", mode='detailed') 
     # Generate simple dialogues
     generate_basic_dialogues(input_file="data/pokemon_data_100.json", output_file="data/basicQA_100_simple.json", mode='simple') 
+    
+    # Generate full detailed dialogues
+    generate_basic_dialogues(input_file="data/pokemon_data.json", output_file="data/basicQA_full.json", mode='detailed') 
+    # Generate simple dialogues
+    generate_basic_dialogues(input_file="data/pokemon_data.json", output_file="data/basicQA_full_simple.json", mode='simple')
